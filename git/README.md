@@ -1,0 +1,1 @@
+readme dentro do diretório git
